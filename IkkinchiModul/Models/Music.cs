@@ -1,6 +1,6 @@
-﻿namespace IkkinchiModul.Dtos;
+﻿namespace IkkinchiModul.Entities;
 
-public class MusicDto
+public class Music
 {
     public Guid Id { get; set; }
     public string Name { get; set; }
